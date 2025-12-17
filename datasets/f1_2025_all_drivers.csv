@@ -1,0 +1,380 @@
+race_id,fp1_long_run,fp1_weather,fp2_long_run,fp2_weather,fp3_long_run,fp3_weather,qualifying,qualifying_weather,driver_perf,team_perf,track_type,race_weather,race_pace,finishing_position
+25-01,78.765,dry,,dry,78.471,dry,1,dry,0.0,0.0,Australian Grand Prix,rainy,103.428301,1
+25-01,79.771,dry,,dry,77.632,dry,3,dry,0.0,0.0,Australian Grand Prix,rainy,103.34115,2
+25-01,80.286,dry,,dry,,dry,4,dry,0.0,0.0,Australian Grand Prix,rainy,103.686339,3
+25-01,80.826,dry,80.381,dry,77.97,dry,16,dry,0.0,0.627906976744186,Australian Grand Prix,rainy,104.57937,4
+25-01,81.0415,dry,79.239,dry,78.294,dry,6,dry,0.0,0.0,Australian Grand Prix,rainy,104.672388,5
+25-01,79.976,dry,78.858,dry,78.6955,dry,13,dry,0.0,0.0,Australian Grand Prix,rainy,104.730129,6
+25-01,80.8,dry,78.846,dry,,dry,17,dry,0.0,0.0,Australian Grand Prix,rainy,104.740166,7
+25-01,80.012,dry,78.434,dry,77.847,dry,7,dry,0.0,0.0,Australian Grand Prix,rainy,103.933528,8
+25-01,80.142,dry,78.206,dry,,dry,2,dry,0.0,0.627906976744186,Australian Grand Prix,rainy,102.084461,9
+25-01,80.484,dry,78.546,dry,,dry,8,dry,0.0,0.11627906976744186,Australian Grand Prix,rainy,103.967188,10
+25-01,81.074,dry,79.567,dry,78.361,dry,9,dry,0.0,0.0,Australian Grand Prix,rainy,104.889166,11
+25-01,80.8956,dry,,dry,78.947,dry,5,dry,0.0,0.0,Australian Grand Prix,rainy,104.085698,12
+25-01,,dry,79.576,dry,80.063,dry,19,dry,0.0,0.0,Australian Grand Prix,rainy,103.848698,13
+25-01,81.6695,dry,,dry,,dry,20,dry,0.0,0.0,Australian Grand Prix,rainy,103.870075,14
+25-01,80.317,dry,79.172,dry,,dry,18,dry,0.0,0.4186046511627907,Australian Grand Prix,rainy,101.752523,15
+25-01,81.31,dry,79.8965,dry,78.824,dry,15,dry,0.0,0.13953488372093023,Australian Grand Prix,rainy,102.655634,16
+25-01,80.8855,dry,,dry,79.85,dry,12,dry,0.0,0.18604651162790697,Australian Grand Prix,rainy,98.517379,17
+25-01,80.432,dry,80.227,dry,78.305,dry,10,dry,0.0,0.23255813953488372,Australian Grand Prix,rainy,,18
+25-01,80.913666,dry,79.836,dry,79.221,dry,14,dry,0.0,0.0,Australian Grand Prix,rainy,,19
+25-01,81.108,dry,78.554,dry,78.783,dry,11,dry,0.0,0.0,Australian Grand Prix,rainy,,20
+25-02,95.194,dry,,unknown,,unknown,1,dry,0.08,0.627906976744186,Chinese Grand Prix,dry,97.411178,1
+25-02,94.0985,dry,,unknown,,unknown,3,dry,1.0,0.751937984496124,Chinese Grand Prix,dry,97.58525,2
+25-02,95.5332,dry,,unknown,,unknown,2,dry,0.6,0.627906976744186,Chinese Grand Prix,dry,97.609339,3
+25-02,95.383,dry,,unknown,,unknown,4,dry,0.72,0.4186046511627907,Chinese Grand Prix,dry,97.708607,4
+25-02,96.0225,dry,,unknown,,unknown,11,dry,0.0,0.0,Chinese Grand Prix,dry,98.303482,5
+25-02,96.3565,dry,,unknown,,unknown,8,dry,0.48,0.5968992248062015,Chinese Grand Prix,dry,98.370964,6
+25-02,95.624,dry,,unknown,,unknown,10,dry,0.4,0.23255813953488372,Chinese Grand Prix,dry,98.41691,7
+25-02,95.9965,dry,,unknown,,unknown,17,dry,0.0,0.10852713178294573,Chinese Grand Prix,dry,98.505875,8
+25-02,95.55,dry,,unknown,,unknown,14,dry,0.32,0.18604651162790697,Chinese Grand Prix,dry,98.664821,9
+25-02,96.15,dry,,unknown,,unknown,15,dry,0.0,0.20930232558139536,Chinese Grand Prix,dry,98.775232,10
+25-02,96.531,dry,,unknown,,unknown,7,dry,0.0,0.0,Chinese Grand Prix,dry,98.81966,11
+25-02,96.3315,dry,,unknown,,unknown,20,dry,0.0,0.37209302325581395,Chinese Grand Prix,dry,98.860232,12
+25-02,97.0834,dry,,unknown,,unknown,18,dry,0.0,0.0,Chinese Grand Prix,dry,98.811196,13
+25-02,96.030333,dry,,unknown,,unknown,19,dry,0.0,0.13953488372093023,Chinese Grand Prix,dry,99.377854,14
+25-02,94.65,dry,,unknown,,unknown,12,dry,0.24,0.09302325581395349,Chinese Grand Prix,dry,99.550036,15
+25-02,95.7585,dry,,unknown,,unknown,9,dry,0.0,0.0,Chinese Grand Prix,dry,99.609763,16
+25-02,95.7226,dry,,unknown,,unknown,13,dry,0.0,0.13953488372093023,Chinese Grand Prix,dry,111.3935,17
+25-02,94.352666,dry,,unknown,,unknown,6,dry,0.16,0.11627906976744186,Chinese Grand Prix,dry,97.82566,18
+25-02,94.979,dry,,unknown,,unknown,5,dry,0.04,0.07751937984496124,Chinese Grand Prix,dry,97.86441,19
+25-02,96.37475,dry,,unknown,,unknown,16,dry,0.0,0.0,Chinese Grand Prix,dry,98.611089,20
+25-03,90.738,dry,,dry,90.397,dry,1,dry,0.6,0.3488372093023256,Japanese Grand Prix,dry,92.961943,1
+25-03,90.583,dry,,dry,91.1375,dry,2,dry,0.86,0.813953488372093,Japanese Grand Prix,dry,92.988792,2
+25-03,93.008333,dry,90.441,dry,90.203666,dry,3,dry,0.54,0.8046511627906977,Japanese Grand Prix,dry,93.002113,3
+25-03,91.367,dry,90.755,dry,,dry,4,dry,0.08,0.05813953488372093,Japanese Grand Prix,dry,93.26566,4
+25-03,,dry,,dry,89.641,dry,5,dry,0.6,0.5813953488372093,Japanese Grand Prix,dry,93.289528,5
+25-03,91.3395,dry,93.563,dry,92.536833,dry,6,dry,0.4,0.5488372093023256,Japanese Grand Prix,dry,93.314226,6
+25-03,91.398,dry,,dry,,dry,8,dry,0.02,0.13023255813953488,Japanese Grand Prix,dry,93.512547,7
+25-03,91.564,dry,90.308,dry,90.529,dry,7,dry,0.0,0.0,Japanese Grand Prix,dry,93.662584,8
+25-03,93.351,dry,91.39,dry,91.248666,dry,9,dry,0.32,0.19767441860465115,Japanese Grand Prix,dry,93.723584,9
+25-03,93.084,dry,91.293,dry,,dry,10,dry,0.08,0.16279069767441862,Japanese Grand Prix,dry,93.990792,10
+25-03,91.318333,dry,,dry,92.487333,dry,13,dry,0.0,0.11627906976744186,Japanese Grand Prix,dry,94.043698,11
+25-03,91.393,dry,,dry,91.63,dry,15,dry,0.0,0.3953488372093023,Japanese Grand Prix,dry,94.063849,12
+25-03,91.451,dry,91.419,dry,90.3485,dry,11,dry,0.0,0.0,Japanese Grand Prix,dry,94.134056,13
+25-03,92.113,dry,,dry,91.282777,dry,12,dry,0.02,0.16744186046511628,Japanese Grand Prix,dry,94.360603,14
+25-03,,dry,,dry,92.688,dry,19,dry,0.0,0.0,Japanese Grand Prix,dry,94.496169,15
+25-03,92.989333,dry,91.522,dry,93.562857,dry,16,dry,0.12,0.06976744186046512,Japanese Grand Prix,dry,94.508301,16
+25-03,91.6035,dry,90.756,dry,91.516,dry,14,dry,0.0,0.018604651162790697,Japanese Grand Prix,dry,94.522962,17
+25-03,92.253666,dry,92.002,dry,,dry,18,dry,0.2,0.13488372093023257,Japanese Grand Prix,dry,94.536245,18
+25-03,93.627,dry,92.152,dry,,dry,17,dry,0.0,0.05581395348837209,Japanese Grand Prix,dry,94.544905,19
+25-03,92.659,dry,93.148666,dry,,dry,20,dry,0.2,0.09302325581395349,Japanese Grand Prix,dry,94.998307,20
+25-04,97.489,dry,92.975,dry,93.5685,dry,1,dry,0.56,0.8325581395348837,Bahrain Grand Prix,dry,99.524375,1
+25-04,,dry,92.543,dry,94.887,dry,2,dry,0.5333333333333333,0.5069767441860465,Bahrain Grand Prix,dry,99.94875,2
+25-04,95.5355,dry,92.876,dry,94.977,dry,6,dry,0.8133333333333334,0.8930232558139535,Bahrain Grand Prix,dry,99.984,3
+25-04,,dry,93.051,dry,94.9645,dry,3,dry,0.21333333333333335,0.19069767441860466,Bahrain Grand Prix,dry,100.018642,4
+25-04,96.525,dry,,dry,95.6945,dry,9,dry,0.09333333333333334,0.26976744186046514,Bahrain Grand Prix,dry,100.272035,5
+25-04,,dry,,dry,,dry,7,dry,0.7333333333333333,0.42790697674418604,Bahrain Grand Prix,dry,101.295263,6
+25-04,96.134333,dry,93.497,dry,94.802,dry,5,dry,0.0,0.0,Bahrain Grand Prix,dry,101.323456,7
+25-04,96.9112,dry,93.776,dry,96.2595,dry,14,dry,0.13333333333333333,0.13953488372093023,Bahrain Grand Prix,dry,101.468052,8
+25-04,97.125,dry,93.692,dry,,dry,10,dry,0.0,0.39069767441860465,Bahrain Grand Prix,dry,100.589035,9
+25-04,,dry,94.465666,dry,97.516,dry,20,dry,0.06666666666666667,0.16279069767441862,Bahrain Grand Prix,dry,101.526824,10
+25-04,,dry,,dry,95.0895,dry,4,dry,0.37333333333333335,0.46511627906976744,Bahrain Grand Prix,dry,100.647446,11
+25-04,95.798,dry,93.45,dry,95.967,dry,15,dry,0.24,0.13023255813953488,Bahrain Grand Prix,dry,100.663357,12
+25-04,97.742333,dry,93.141,dry,94.763,dry,12,dry,0.05333333333333334,0.037209302325581395,Bahrain Grand Prix,dry,101.679807,13
+25-04,97.002,dry,93.8405,dry,95.5105,dry,11,dry,0.0,0.027906976744186046,Bahrain Grand Prix,dry,101.618263,14
+25-04,,dry,,dry,96.874,dry,13,dry,0.0,0.05581395348837209,Bahrain Grand Prix,dry,100.858357,15
+25-04,97.2285,dry,93.285,dry,94.904,dry,17,dry,0.0,0.037209302325581395,Bahrain Grand Prix,dry,100.656357,16
+25-04,97.4814,dry,,dry,,dry,19,dry,0.13333333333333333,0.018604651162790697,Bahrain Grand Prix,dry,100.934,17
+25-04,97.562,dry,93.621,dry,97.908,dry,18,dry,0.0,0.027906976744186046,Bahrain Grand Prix,dry,100.971571,18
+25-04,,dry,93.706,dry,95.414,dry,8,dry,0.013333333333333334,0.08372093023255814,Bahrain Grand Prix,dry,102.382954,19
+25-04,96.6725,dry,,dry,,dry,16,dry,0.08,0.0,Bahrain Grand Prix,dry,101.629947,20
+25-05,91.548,dry,90.286,dry,89.118,dry,2,dry,0.67,0.8790697674418605,Saudi Arabian Grand Prix,dry,94.322645,1
+25-05,91.764,dry,,dry,,dry,1,dry,0.63,0.3813953488372093,Saudi Arabian Grand Prix,dry,94.357229,2
+25-05,90.81,dry,,dry,90.408,dry,4,dry,0.28,0.37209302325581395,Saudi Arabian Grand Prix,dry,94.547104,3
+25-05,92.366,dry,90.03,dry,89.203,dry,10,dry,0.76,0.8511627906976744,Saudi Arabian Grand Prix,dry,94.714229,4
+25-05,91.86,dry,,dry,,dry,3,dry,0.58,0.4418604651162791,Saudi Arabian Grand Prix,dry,94.932833,5
+25-05,93.147,dry,91.252,dry,,dry,5,dry,0.28,0.4186046511627907,Saudi Arabian Grand Prix,dry,95.124645,6
+25-05,92.5285,dry,91.353,dry,91.0595,dry,7,dry,0.17,0.4697674418604651,Saudi Arabian Grand Prix,dry,95.27227,7
+25-05,92.542,dry,91.727,dry,,dry,6,dry,0.01,0.05116279069767442,Saudi Arabian Grand Prix,dry,95.821916,8
+25-05,91.804,dry,91.247,dry,90.217,dry,11,dry,0.18,0.046511627906976744,Saudi Arabian Grand Prix,dry,95.926666,9
+25-05,92.547,dry,90.935,dry,90.47,dry,14,dry,0.04,0.037209302325581395,Saudi Arabian Grand Prix,dry,96.00102,10
+25-05,92.464,dry,,dry,,dry,13,dry,0.0,0.009302325581395349,Saudi Arabian Grand Prix,dry,96.135208,11
+25-05,91.985,dry,91.171,dry,,dry,12,dry,0.0,0.04186046511627907,Saudi Arabian Grand Prix,dry,96.065041,12
+25-05,92.946,dry,,dry,,dry,15,dry,0.06,0.12093023255813953,Saudi Arabian Grand Prix,dry,96.305375,13
+25-05,93.605,dry,91.681,dry,,dry,19,dry,0.14,0.05581395348837209,Saudi Arabian Grand Prix,dry,96.801416,14
+25-05,92.901,dry,91.548,dry,90.776,dry,18,dry,0.06,0.0,Saudi Arabian Grand Prix,dry,96.809021,15
+25-05,93.158,dry,,dry,,dry,16,dry,0.1,0.0,Saudi Arabian Grand Prix,dry,96.807148,16
+25-05,92.832,dry,,dry,90.613,dry,17,dry,0.0,0.05581395348837209,Saudi Arabian Grand Prix,dry,97.136212,17
+25-05,94.3005,dry,,dry,92.082142,dry,20,dry,0.0,0.0,Saudi Arabian Grand Prix,dry,97.150893,18
+25-05,92.118,dry,,dry,90.327,dry,8,dry,0.02,0.40930232558139534,Saudi Arabian Grand Prix,dry,165.662,19
+25-05,91.767,dry,92.772,dry,,dry,9,dry,0.06,0.05581395348837209,Saudi Arabian Grand Prix,dry,,20
+25-06,89.8725,dry,,unknown,,unknown,4,dry,0.736,0.8697674418604651,Miami Grand Prix,rainy,93.536614,1
+25-06,90.6995,dry,,unknown,,unknown,2,dry,0.704,0.9162790697674419,Miami Grand Prix,rainy,93.617842,2
+25-06,91.425142,dry,,unknown,,unknown,5,dry,0.544,0.4186046511627907,Miami Grand Prix,rainy,94.197035,3
+25-06,89.808,dry,,unknown,,unknown,1,dry,0.648,0.3767441860465116,Miami Grand Prix,rainy,94.237596,4
+25-06,91.116428,dry,,unknown,,unknown,7,dry,0.16,0.06511627906976744,Miami Grand Prix,rainy,94.379894,5
+25-06,91.687,dry,,unknown,,unknown,3,dry,0.288,0.4418604651162791,Miami Grand Prix,rainy,94.510333,6
+25-06,89.82025,dry,,unknown,,unknown,8,dry,0.344,0.48372093023255813,Miami Grand Prix,rainy,94.537245,7
+25-06,91.1305,dry,,unknown,,unknown,12,dry,0.184,0.44651162790697674,Miami Grand Prix,rainy,94.592508,8
+25-06,90.855285,dry,,unknown,,unknown,6,dry,0.04,0.11162790697674418,Miami Grand Prix,rainy,94.599368,9
+25-06,90.096,dry,,unknown,,unknown,10,dry,0.016,0.3209302325581395,Miami Grand Prix,rainy,94.754754,10
+25-06,90.391,dry,,unknown,,unknown,11,dry,0.04,0.027906976744186046,Miami Grand Prix,rainy,94.845421,11
+25-06,91.888666,dry,,unknown,,unknown,9,dry,0.112,0.05116279069767442,Miami Grand Prix,rainy,94.975315,12
+25-06,92.05625,dry,,unknown,,unknown,18,dry,0.048,0.05581395348837209,Miami Grand Prix,rainy,95.123368,13
+25-06,90.8935,dry,,unknown,,unknown,16,dry,0.048,0.0,Miami Grand Prix,rainy,95.227535,14
+25-06,91.391833,dry,,unknown,,unknown,17,dry,0.0,0.0,Miami Grand Prix,rainy,95.581535,15
+25-06,91.679333,dry,,unknown,,unknown,19,dry,0.08,0.0,Miami Grand Prix,rainy,95.656232,16
+25-06,91.504666,dry,,unknown,,unknown,15,dry,0.0,0.009302325581395349,Miami Grand Prix,rainy,98.514194,17
+25-06,92.0662,dry,,unknown,,unknown,13,dry,0.0,0.0,Miami Grand Prix,rainy,98.1153,18
+25-06,92.0249,dry,,unknown,,unknown,20,dry,0.048,0.046511627906976744,Miami Grand Prix,rainy,95.954555,19
+25-06,91.788285,dry,,unknown,,unknown,14,dry,0.0,0.05581395348837209,Miami Grand Prix,rainy,,20
+25-07,78.885,dry,,dry,,dry,2,dry,0.6,0.33488372093023255,Emilia Romagna Grand Prix,dry,87.193634,1
+25-07,79.450571,dry,79.071,dry,78.018,dry,4,dry,0.648,0.9302325581395349,Emilia Romagna Grand Prix,dry,87.290603,2
+25-07,78.885142,dry,79.242,dry,77.2655,dry,1,dry,0.92,0.8976744186046511,Emilia Romagna Grand Prix,dry,87.399285,3
+25-07,79.81225,dry,79.734,dry,77.907666,dry,12,dry,0.208,0.39069767441860465,Emilia Romagna Grand Prix,dry,87.421507,4
+25-07,79.45,dry,,dry,,dry,7,dry,0.16,0.16744186046511628,Emilia Romagna Grand Prix,dry,87.478476,5
+25-07,80.331,dry,79.656,dry,77.783,dry,11,dry,0.36,0.3813953488372093,Emilia Romagna Grand Prix,dry,87.52338,6
+25-07,78.994,dry,,dry,,dry,3,dry,0.544,0.46511627906976744,Emilia Romagna Grand Prix,dry,87.54338,7
+25-07,,dry,,dry,,dry,6,dry,0.056,0.23255813953488372,Emilia Romagna Grand Prix,dry,87.557095,8
+25-07,80.6405,dry,,dry,,dry,9,dry,0.04,0.009302325581395349,Emilia Romagna Grand Prix,dry,87.568015,9
+25-07,,dry,77.387,dry,,dry,20,dry,0.024,0.40930232558139534,Emilia Romagna Grand Prix,dry,87.613412,10
+25-07,80.5445,dry,78.077,dry,,dry,5,dry,0.0,0.0,Emilia Romagna Grand Prix,dry,87.626174,11
+25-07,80.0622,dry,80.227,dry,78.005,dry,17,dry,0.0,0.0,Emilia Romagna Grand Prix,dry,87.674523,12
+25-07,79.346,dry,,dry,,dry,10,dry,0.048,0.027906976744186046,Emilia Romagna Grand Prix,dry,87.692428,13
+25-07,79.963,dry,,dry,,dry,16,dry,0.0,0.018604651162790697,Emilia Romagna Grand Prix,dry,87.709682,14
+25-07,79.931,dry,,dry,,dry,8,dry,0.016,0.0,Emilia Romagna Grand Prix,dry,87.717333,15
+25-07,79.1785,dry,,dry,,dry,15,dry,0.0,0.0,Emilia Romagna Grand Prix,dry,87.723968,16
+25-07,79.96,dry,,dry,,dry,19,dry,0.048,0.023255813953488372,Emilia Romagna Grand Prix,dry,87.730269,17
+25-07,79.311,dry,,dry,,dry,14,dry,0.0,0.0,Emilia Romagna Grand Prix,dry,87.805888,18
+25-07,78.78,dry,80.152571,dry,,dry,13,dry,0.256,0.40930232558139534,Emilia Romagna Grand Prix,dry,83.857818,19
+25-07,80.50775,dry,78.682,dry,,dry,18,dry,0.112,0.0,Emilia Romagna Grand Prix,dry,83.790185,20
+25-08,74.615142,dry,74.314285,dry,72.97,dry,1,dry,0.648,0.8790697674418605,Monaco Grand Prix,dry,77.356961,1
+25-08,74.807285,dry,74.174375,dry,73.552,dry,2,dry,0.424,0.3767441860465116,Monaco Grand Prix,dry,77.397102,2
+25-08,75.1605,dry,73.992666,dry,73.276,dry,3,dry,0.84,0.8930232558139535,Monaco Grand Prix,dry,77.403858,3
+25-08,74.314,dry,74.9145,dry,73.087,dry,5,dry,0.704,0.44651162790697674,Monaco Grand Prix,dry,77.620705,4
+25-08,74.91325,dry,74.4735,dry,73.677,dry,4,dry,0.304,0.40930232558139534,Monaco Grand Prix,dry,78.015769,5
+25-08,75.843833,dry,73.521,dry,74.921,dry,6,dry,0.056,0.023255813953488372,Monaco Grand Prix,dry,79.206818,6
+25-08,76.005,dry,75.866833,dry,74.87,dry,8,dry,0.032,0.0,Monaco Grand Prix,dry,79.219116,7
+25-08,75.852111,dry,74.27475,dry,74.137,dry,9,dry,0.0,0.07441860465116279,Monaco Grand Prix,dry,79.228428,8
+25-08,74.864,dry,75.1216,dry,74.544,dry,10,dry,0.192,0.26976744186046514,Monaco Grand Prix,dry,79.548842,9
+25-08,75.133571,dry,75.175714,dry,,dry,11,dry,0.08,0.2558139534883721,Monaco Grand Prix,dry,79.593092,10
+25-08,74.424,dry,75.36075,dry,,dry,14,dry,0.472,0.35348837209302325,Monaco Grand Prix,dry,79.837986,11
+25-08,75.725142,dry,75.405666,dry,74.466,dry,17,dry,0.016,0.027906976744186046,Monaco Grand Prix,dry,80.112315,12
+25-08,76.5184,dry,75.784375,dry,74.98925,dry,20,dry,0.0,0.0,Monaco Grand Prix,dry,80.144171,13
+25-08,76.109166,dry,75.333285,dry,74.4105,dry,16,dry,0.0,0.0,Monaco Grand Prix,dry,80.292986,14
+25-08,79.289,dry,75.21,dry,,dry,19,dry,0.0,0.0,Monaco Grand Prix,dry,80.318921,15
+25-08,75.582333,dry,75.196666,dry,74.526,dry,13,dry,0.0,0.0,Monaco Grand Prix,dry,80.334039,16
+25-08,76.3575,dry,75.177,dry,,dry,12,dry,0.032,0.4186046511627907,Monaco Grand Prix,dry,80.338052,17
+25-08,75.136,dry,75.230333,dry,74.064,dry,15,dry,0.192,0.26976744186046514,Monaco Grand Prix,dry,80.56336,18
+25-08,75.501333,dry,74.862333,dry,,dry,7,dry,0.0,0.0,Monaco Grand Prix,dry,80.752833,19
+25-08,74.998333,dry,75.115222,dry,74.032,dry,18,dry,0.048,0.0,Monaco Grand Prix,dry,93.944142,20
+25-09,75.9705,dry,74.37,dry,75.3995,dry,1,dry,0.84,0.8790697674418605,Spanish Grand Prix,dry,84.505681,1
+25-09,75.8545,dry,,dry,76.137666,dry,2,dry,0.704,0.8790697674418605,Spanish Grand Prix,dry,84.543121,2
+25-09,76.318333,dry,,dry,76.042,dry,7,dry,0.472,0.4930232558139535,Spanish Grand Prix,dry,84.66409,3
+25-09,77.019,dry,,dry,,dry,4,dry,0.392,0.16279069767441862,Spanish Grand Prix,dry,84.677787,4
+25-09,77.110333,dry,,dry,,dry,16,dry,0.0,0.0,Spanish Grand Prix,dry,84.712469,5
+25-09,76.256333,dry,,dry,76.967,dry,5,dry,0.336,0.5534883720930233,Spanish Grand Prix,dry,84.740651,6
+25-09,76.6715,dry,75.155,dry,75.028,dry,9,dry,0.088,0.13023255813953488,Spanish Grand Prix,dry,84.748439,7
+25-09,76.4274,dry,,dry,77.2932,dry,8,dry,0.048,0.0,Spanish Grand Prix,dry,84.776621,8
+25-09,77.755666,dry,74.841,dry,,dry,10,dry,0.0,0.0,Spanish Grand Prix,dry,84.832409,9
+25-09,76.3035,dry,,dry,,dry,3,dry,0.6,0.413953488372093,Spanish Grand Prix,dry,84.684863,10
+25-09,76.289666,dry,,dry,75.602,dry,13,dry,0.032,0.15813953488372093,Spanish Grand Prix,dry,84.89253,11
+25-09,77.421,dry,,dry,76.116,dry,12,dry,0.0,0.046511627906976744,Spanish Grand Prix,dry,84.89956,12
+25-09,76.620666,dry,,dry,,dry,20,dry,0.032,0.3581395348837209,Spanish Grand Prix,dry,84.942378,13
+25-09,77.112,dry,,dry,,dry,18,dry,0.088,0.21395348837209302,Spanish Grand Prix,dry,84.949757,14
+25-09,77.473,dry,75.9575,dry,76.1444,dry,19,dry,0.0,0.018604651162790697,Spanish Grand Prix,dry,84.981151,15
+25-09,,dry,76.09075,dry,,dry,17,dry,0.08,0.05581395348837209,Spanish Grand Prix,dry,84.993515,16
+25-09,77.32575,dry,,dry,,dry,15,dry,0.008,0.05581395348837209,Spanish Grand Prix,dry,84.915757,17
+25-09,,dry,,dry,,dry,6,dry,0.128,0.11162790697674418,Spanish Grand Prix,dry,82.074188,18
+25-09,,dry,,dry,,dry,11,dry,0.192,0.15813953488372093,Spanish Grand Prix,dry,85.301777,19
+25-10,76.623,dry,76.032,dry,73.81,dry,1,dry,0.344,0.13953488372093023,Canadian Grand Prix,rainy,78.752685,1
+25-10,75.95525,dry,76.25975,dry,,dry,2,dry,0.544,0.24186046511627907,Canadian Grand Prix,rainy,78.755942,2
+25-10,76.864,dry,75.74,dry,73.983,dry,4,dry,0.128,0.29767441860465116,Canadian Grand Prix,rainy,78.767171,3
+25-10,76.059333,dry,75.7124,dry,75.091,dry,3,dry,0.84,0.9255813953488372,Canadian Grand Prix,rainy,78.782814,4
+25-10,75.848,dry,,dry,74.935714,dry,8,dry,0.496,0.5674418604651162,Canadian Grand Prix,rainy,78.801857,5
+25-10,77.247714,dry,76.1042,dry,73.613,dry,5,dry,0.32,0.5581395348837209,Canadian Grand Prix,rainy,78.905728,6
+25-10,77.378666,dry,74.083,dry,,dry,6,dry,0.016,0.009302325581395349,Canadian Grand Prix,rainy,78.909428,7
+25-10,77.6883,dry,76.317428,dry,75.0895,dry,13,dry,0.08,0.09302325581395349,Canadian Grand Prix,rainy,78.972171,8
+25-10,77.484,dry,76.674285,dry,75.108,dry,15,dry,0.048,0.05581395348837209,Canadian Grand Prix,rainy,79.915376,9
+25-10,75.73925,dry,75.9985,dry,,dry,17,dry,0.088,0.09302325581395349,Canadian Grand Prix,rainy,79.921362,10
+25-10,76.78659999999999,dry,76.619833,dry,74.9545,dry,14,dry,0.0,0.06511627906976744,Canadian Grand Prix,rainy,79.947898,11
+25-10,77.04,dry,75.047,dry,,dry,11,dry,0.016,0.20465116279069767,Canadian Grand Prix,rainy,79.973101,12
+25-10,77.528857,dry,77.165071,dry,74.992,dry,12,dry,0.0,0.037209302325581395,Canadian Grand Prix,rainy,79.995739,13
+25-10,77.376857,dry,76.201333,dry,,dry,16,dry,0.0,0.11162790697674418,Canadian Grand Prix,rainy,80.008217,14
+25-10,76.12,dry,76.401833,dry,74.424,dry,20,dry,0.032,0.037209302325581395,Canadian Grand Prix,rainy,80.009246,15
+25-10,76.296,dry,76.636,dry,74.585,dry,9,dry,0.136,0.17674418604651163,Canadian Grand Prix,rainy,80.020652,16
+25-10,76.824333,dry,,dry,76.401,dry,18,dry,0.0,0.037209302325581395,Canadian Grand Prix,rainy,80.025376,17
+25-10,76.0948,dry,75.601,dry,73.537,dry,7,dry,0.728,0.827906976744186,Canadian Grand Prix,rainy,76.325303,18
+25-10,76.769,dry,,dry,,dry,19,dry,0.032,0.16744186046511628,Canadian Grand Prix,rainy,78.420226,19
+25-10,75.148,dry,75.1425,dry,,dry,10,dry,0.192,0.03255813953488372,Canadian Grand Prix,rainy,78.327826,20
+25-11,,dry,66.795,dry,,dry,1,dry,0.632,0.6976744186046512,Austrian Grand Prix,dry,71.824185,1
+25-11,69.071333,dry,66.673,dry,,dry,3,dry,0.736,0.7116279069767442,Austrian Grand Prix,dry,71.862685,2
+25-11,,dry,67.396,dry,,dry,2,dry,0.456,0.5116279069767442,Austrian Grand Prix,dry,72.107328,3
+25-11,67.978,dry,68.011,dry,66.297,dry,4,dry,0.336,0.5069767441860465,Austrian Grand Prix,dry,72.238757,4
+25-11,68.91875,dry,69.117,dry,,dry,5,dry,0.464,0.48372093023255813,Austrian Grand Prix,dry,72.715557,5
+25-11,69.35,dry,67.551,dry,67.138,dry,6,dry,0.032,0.11162790697674418,Austrian Grand Prix,dry,72.7921,6
+25-11,68.548,dry,,dry,,dry,11,dry,0.064,0.06511627906976744,Austrian Grand Prix,dry,72.885942,7
+25-11,69.0752,dry,67.056,dry,,dry,8,dry,0.0,0.13023255813953488,Austrian Grand Prix,dry,72.893405,8
+25-11,68.9284,dry,69.719,dry,,dry,20,dry,0.112,0.15813953488372093,Austrian Grand Prix,dry,72.977,9
+25-11,69.971875,dry,67.528,dry,,dry,17,dry,0.064,0.046511627906976744,Austrian Grand Prix,dry,73.00984,10
+25-11,70.111666,dry,69.142333,dry,66.922,dry,15,dry,0.0,0.023255813953488372,Austrian Grand Prix,dry,73.225318,11
+25-11,69.085,dry,,dry,,dry,13,dry,0.128,0.09302325581395349,Austrian Grand Prix,dry,73.270289,12
+25-11,68.411,dry,68.1835,dry,68.830142,dry,10,dry,0.032,0.037209302325581395,Austrian Grand Prix,dry,73.344173,13
+25-11,69.6306,dry,66.5875,dry,,dry,16,dry,0.0,0.09302325581395349,Austrian Grand Prix,dry,73.364565,14
+25-11,68.84125,dry,69.1625,dry,67.516,dry,14,dry,0.0,0.037209302325581395,Austrian Grand Prix,dry,73.411376,15
+25-11,68.6405,dry,,dry,,dry,18,dry,0.016,0.23255813953488372,Austrian Grand Prix,dry,73.98047,16
+25-11,68.9975,dry,69.756,dry,,dry,12,dry,0.176,0.023255813953488372,Austrian Grand Prix,dry,80.0152,17
+25-11,67.667,dry,,dry,67.0795,dry,7,dry,0.544,0.17674418604651163,Austrian Grand Prix,dry,,18
+25-11,69.57375,dry,69.346666,dry,,dry,9,dry,0.184,0.5302325581395348,Austrian Grand Prix,dry,,19
+25-11,69.828333,dry,69.569333,dry,,dry,19,dry,0.064,0.009302325581395349,Austrian Grand Prix,dry,,20
+25-12,88.645,dry,87.503,dry,88.910666,dry,3,dry,0.688,0.7116279069767442,British Grand Prix,rainy,105.549217,1
+25-12,88.699,dry,88.129,dry,88.38175,dry,2,dry,0.68,0.7116279069767442,British Grand Prix,rainy,105.341282,2
+25-12,,dry,89.4275,dry,88.5405,dry,19,dry,0.128,0.13953488372093023,British Grand Prix,rainy,106.56926,3
+25-12,89.161,dry,,dry,,dry,5,dry,0.4,0.5255813953488372,British Grand Prix,rainy,107.648276,4
+25-12,88.968,dry,,dry,,dry,1,dry,0.448,0.17209302325581396,British Grand Prix,rainy,106.58663,5
+25-12,90.16,dry,89.105666,dry,90.4015,dry,10,dry,0.032,0.018604651162790697,British Grand Prix,rainy,108.054234,6
+25-12,89.988,dry,88.0205,dry,,dry,18,dry,0.0,0.12093023255813953,British Grand Prix,rainy,107.027543,7
+25-12,89.582,dry,,dry,,dry,14,dry,0.096,0.009302325581395349,British Grand Prix,rainy,108.297744,8
+25-12,90.1896,dry,,dry,,dry,9,dry,0.112,0.14883720930232558,British Grand Prix,rainy,108.271,9
+25-12,,dry,,dry,,dry,4,dry,0.424,0.5209302325581395,British Grand Prix,rainy,108.341957,10
+25-12,90.695,dry,89.245,dry,,dry,8,dry,0.0,0.027906976744186046,British Grand Prix,rainy,108.613659,11
+25-12,90.448,dry,,dry,,dry,11,dry,0.048,0.027906976744186046,British Grand Prix,rainy,108.568468,12
+25-12,90.038,dry,89.156,dry,87.889,dry,15,dry,0.072,0.027906976744186046,British Grand Prix,rainy,108.310808,13
+25-12,89.762,dry,,dry,,dry,6,dry,0.528,0.4744186046511628,British Grand Prix,rainy,108.809574,14
+25-12,,dry,89.223,dry,,dry,12,dry,0.008,0.21395348837209302,British Grand Prix,rainy,110.05676,15
+25-12,89.634,dry,,dry,,dry,7,dry,0.12,0.4697674418604651,British Grand Prix,rainy,120.091117,16
+25-12,89.404,dry,,dry,88.1415,dry,13,dry,0.128,0.10232558139534884,British Grand Prix,rainy,122.0316,17
+25-12,90.999,dry,88.537,dry,88.6865,dry,17,dry,0.032,0.16279069767441862,British Grand Prix,rainy,136.367666,18
+25-12,90.125,dry,,dry,87.808,dry,16,dry,0.096,0.07441860465116279,British Grand Prix,rainy,,19
+25-12,91.0555,dry,,dry,,dry,20,dry,0.0,0.037209302325581395,British Grand Prix,rainy,,20
+25-13,105.0886,rainy,,unknown,,unknown,2,dry,0.704,0.8558139534883721,Belgian Grand Prix,rainy,112.062536,1
+25-13,105.435,rainy,,unknown,,unknown,1,dry,0.744,1.0,Belgian Grand Prix,rainy,112.131463,2
+25-13,105.64275,rainy,,unknown,,unknown,3,dry,0.464,0.44651162790697674,Belgian Grand Prix,rainy,112.610439,3
+25-13,104.8905,rainy,,unknown,,unknown,4,dry,0.328,0.17674418604651163,Belgian Grand Prix,rainy,112.679731,4
+25-13,105.565,rainy,,unknown,,unknown,6,dry,0.384,0.28837209302325584,Belgian Grand Prix,rainy,113.062414,5
+25-13,106.269,rainy,,unknown,,unknown,5,dry,0.048,0.04186046511627907,Belgian Grand Prix,rainy,113.141073,6
+25-13,105.9785,rainy,,unknown,,unknown,16,dry,0.4,0.4604651162790698,Belgian Grand Prix,rainy,113.511658,7
+25-13,106.081,rainy,,unknown,,unknown,9,dry,0.096,0.07441860465116279,Belgian Grand Prix,rainy,113.555853,8
+25-13,106.28375,rainy,,unknown,,unknown,10,dry,0.032,0.21395348837209302,Belgian Grand Prix,rainy,113.665926,9
+25-13,106.8224,rainy,,unknown,,unknown,13,dry,0.096,0.07441860465116279,Belgian Grand Prix,rainy,114.141439,10
+25-13,107.836333,rainy,,unknown,,unknown,12,dry,0.0,0.018604651162790697,Belgian Grand Prix,rainy,114.110463,11
+25-13,106.5065,rainy,,unknown,,unknown,14,dry,0.248,0.20465116279069767,Belgian Grand Prix,rainy,114.198463,12
+25-13,106.155,rainy,,unknown,,unknown,7,dry,0.0,0.14883720930232558,Belgian Grand Prix,rainy,114.08439,13
+25-13,105.64175,rainy,,unknown,,unknown,20,dry,0.048,0.15813953488372093,Belgian Grand Prix,rainy,114.37717,14
+25-13,106.4212,rainy,,unknown,,unknown,11,dry,0.072,0.009302325581395349,Belgian Grand Prix,rainy,114.423926,15
+25-13,105.679,rainy,,unknown,,unknown,18,dry,0.12,0.14883720930232558,Belgian Grand Prix,rainy,114.682926,16
+25-13,106.0682,rainy,,unknown,,unknown,19,dry,0.128,0.13023255813953488,Belgian Grand Prix,rainy,114.741756,17
+25-13,105.80675,rainy,,unknown,,unknown,15,dry,0.016,0.07441860465116279,Belgian Grand Prix,rainy,114.716365,18
+25-13,107.73,rainy,,unknown,,unknown,17,dry,0.0,0.07906976744186046,Belgian Grand Prix,rainy,114.736878,19
+25-13,106.195333,rainy,,unknown,,unknown,8,dry,0.112,0.09302325581395349,Belgian Grand Prix,rainy,115.39075,20
+25-14,78.242666,dry,,dry,76.669,dry,3,dry,0.688,1.0,Hungarian Grand Prix,dry,81.731871,1
+25-14,78.36825,dry,77.574,dry,,dry,2,dry,0.784,1.0,Hungarian Grand Prix,dry,81.741842,2
+25-14,78.796,dry,78.087,dry,,dry,4,dry,0.464,0.14883720930232558,Hungarian Grand Prix,dry,82.044957,3
+25-14,78.4265,dry,,dry,,dry,1,dry,0.44,0.4325581395348837,Hungarian Grand Prix,dry,82.268442,4
+25-14,,dry,78.20275,dry,,dry,5,dry,0.128,0.10232558139534884,Hungarian Grand Prix,dry,82.5753,5
+25-14,80.143,dry,78.764,dry,79.283,dry,7,dry,0.048,0.18604651162790697,Hungarian Grand Prix,dry,82.677142,6
+25-14,79.22,dry,77.897,dry,77.54,dry,6,dry,0.048,0.14883720930232558,Hungarian Grand Prix,dry,82.705785,7
+25-14,79.3205,dry,80.748,dry,,dry,9,dry,0.096,0.07441860465116279,Hungarian Grand Prix,dry,82.724028,8
+25-14,79.007,dry,,dry,79.895666,dry,8,dry,0.328,0.20465116279069767,Hungarian Grand Prix,dry,82.769657,9
+25-14,79.3775,dry,,dry,78.639666,dry,15,dry,0.12,0.17674418604651163,Hungarian Grand Prix,dry,83.027246,10
+25-14,78.80825,dry,,dry,,dry,10,dry,0.048,0.05581395348837209,Hungarian Grand Prix,dry,83.039579,11
+25-14,79.074,dry,,dry,78.585,dry,12,dry,0.368,0.3627906976744186,Hungarian Grand Prix,dry,83.059304,12
+25-14,,dry,78.8885,dry,78.7142,dry,19,dry,0.248,0.19534883720930232,Hungarian Grand Prix,dry,83.36955,13
+25-14,79.323333,dry,,dry,78.514,dry,13,dry,0.008,0.11162790697674418,Hungarian Grand Prix,dry,83.399376,14
+25-14,79.445333,dry,78.765,dry,,dry,20,dry,0.096,0.11162790697674418,Hungarian Grand Prix,dry,83.468724,15
+25-14,79.753666,dry,79.032,dry,78.29,dry,18,dry,0.024,0.004651162790697674,Hungarian Grand Prix,dry,83.572304,16
+25-14,80.284,dry,,dry,79.8165,dry,16,dry,0.0,0.21395348837209302,Hungarian Grand Prix,dry,83.596724,17
+25-14,80.2825,dry,,dry,78.006,dry,14,dry,0.0,0.08372093023255814,Hungarian Grand Prix,dry,83.602913,18
+25-14,79.282666,dry,78.7495,dry,79.2078,dry,17,dry,0.104,0.08372093023255814,Hungarian Grand Prix,dry,83.588043,19
+25-14,79.6105,dry,78.327,dry,77.985,dry,11,dry,0.0,0.0,Hungarian Grand Prix,dry,84.161437,20
+25-15,73.438,dry,72.375,rainy,,dry,1,dry,0.728,1.0,Dutch Grand Prix,dry,82.081236,1
+25-15,72.767,dry,,rainy,,dry,3,dry,0.336,0.17674418604651163,Dutch Grand Prix,dry,82.098888,2
+25-15,73.9755,dry,,rainy,71.748,dry,4,dry,0.0,0.07441860465116279,Dutch Grand Prix,dry,82.126138,3
+25-15,73.913,dry,72.0425,rainy,,dry,5,dry,0.488,0.24651162790697675,Dutch Grand Prix,dry,82.159763,4
+25-15,74.155,dry,,rainy,71.7155,dry,15,dry,0.096,0.09302325581395349,Dutch Grand Prix,dry,82.169111,5
+25-15,75.975875,dry,72.899,rainy,,dry,19,dry,0.0,0.0,Dutch Grand Prix,dry,82.206847,6
+25-15,73.35525,dry,73.778,rainy,72.8335,dry,20,dry,0.096,0.18604651162790697,Dutch Grand Prix,dry,82.213138,7
+25-15,73.5585,dry,72.0075,rainy,73.9925,dry,10,dry,0.192,0.19534883720930232,Dutch Grand Prix,dry,82.243861,8
+25-15,74.8915,dry,72.765,rainy,,dry,12,dry,0.0,0.22325581395348837,Dutch Grand Prix,dry,82.270083,9
+25-15,75.5946,dry,74.9665,rainy,72.794,dry,18,dry,0.024,0.04186046511627907,Dutch Grand Prix,dry,82.276555,10
+25-15,75.096,dry,73.771666,rainy,73.0215,dry,16,dry,0.0,0.046511627906976744,Dutch Grand Prix,dry,82.282777,11
+25-15,73.582,dry,,rainy,72.116,dry,8,dry,0.128,0.14418604651162792,Dutch Grand Prix,dry,82.318222,12
+25-15,73.6365,dry,75.166285,rainy,71.872333,dry,9,dry,0.008,0.12093023255813953,Dutch Grand Prix,dry,82.322569,13
+25-15,75.7215,dry,74.3015,rainy,72.715,dry,17,dry,0.168,0.16279069767441862,Dutch Grand Prix,dry,82.355194,14
+25-15,73.97725,dry,73.782,rainy,72.7454,dry,13,dry,0.112,0.09302325581395349,Dutch Grand Prix,dry,82.38075,15
+25-15,,dry,,rainy,73.74,dry,11,dry,0.128,0.29767441860465116,Dutch Grand Prix,dry,82.178861,16
+25-15,74.259,dry,76.0315,rainy,,dry,14,dry,0.072,0.009302325581395349,Dutch Grand Prix,dry,82.409416,17
+25-15,73.050666,dry,72.615,rainy,,dry,2,dry,0.744,0.9162790697674419,Dutch Grand Prix,dry,80.757609,18
+25-15,74.965,dry,73.251,rainy,72.106,dry,6,dry,0.416,0.3627906976744186,Dutch Grand Prix,dry,78.788807,19
+25-15,75.674,dry,72.59,rainy,72.295,dry,7,dry,0.304,0.30697674418604654,Dutch Grand Prix,dry,76.612636,20
+25-16,,dry,83.563,dry,81.6525,dry,1,dry,0.336,0.26046511627906976,Italian Grand Prix,dry,83.100471,1
+25-16,84.998,dry,83.3656,dry,81.75475,dry,2,dry,0.744,0.8325581395348837,Italian Grand Prix,dry,83.462867,2
+25-16,,dry,83.482166,dry,82.072,dry,3,dry,0.832,0.786046511627907,Italian Grand Prix,dry,83.50332,3
+25-16,83.315666,dry,83.266,dry,82.054,dry,4,dry,0.336,0.20930232558139536,Italian Grand Prix,dry,83.583943,4
+25-16,83.369,dry,83.8725,dry,,dry,6,dry,0.384,0.30697674418604654,Italian Grand Prix,dry,83.720867,5
+25-16,81.988,dry,83.143333,dry,81.791,dry,5,dry,0.24,0.20465116279069767,Italian Grand Prix,dry,83.807056,6
+25-16,,dry,83.955,dry,81.352,dry,14,dry,0.176,0.13023255813953488,Italian Grand Prix,dry,84.054,7
+25-16,,dry,84.058,dry,82.146,dry,8,dry,0.112,0.08372093023255814,Italian Grand Prix,dry,84.203943,8
+25-16,83.818,dry,,dry,82.817,dry,7,dry,0.008,0.31627906976744186,Italian Grand Prix,dry,84.133716,9
+25-16,83.8855,dry,84.0265,dry,,dry,16,dry,0.12,0.19534883720930232,Italian Grand Prix,dry,84.305962,10
+25-16,82.826666,dry,83.3248,dry,,dry,13,dry,0.0,0.12093023255813953,Italian Grand Prix,dry,84.316867,11
+25-16,84.965666,dry,84.441,dry,81.922,dry,11,dry,0.064,0.08372093023255814,Italian Grand Prix,dry,84.407792,12
+25-16,84.59925,dry,83.664,dry,83.186375,dry,10,dry,0.016,0.3209302325581395,Italian Grand Prix,dry,84.623132,13
+25-16,83.9,dry,84.374142,dry,,dry,20,dry,0.128,0.1813953488372093,Italian Grand Prix,dry,84.654264,14
+25-16,,dry,84.251571,dry,82.3915,dry,15,dry,0.016,0.08372093023255814,Italian Grand Prix,dry,84.739615,15
+25-16,84.004,dry,84.451666,dry,82.9475,dry,19,dry,0.072,0.004651162790697674,Italian Grand Prix,dry,84.810807,16
+25-16,,dry,84.714866,dry,82.28,dry,18,dry,0.0,0.0,Italian Grand Prix,dry,84.841788,17
+25-16,83.438,dry,83.568666,dry,82.264,dry,17,dry,0.144,0.24186046511627907,Italian Grand Prix,dry,84.877423,18
+25-16,84.018,dry,84.2275,dry,81.97,dry,9,dry,0.176,0.24186046511627907,Italian Grand Prix,dry,86.72925,19
+25-16,,dry,83.087,dry,82.014,dry,12,dry,0.136,0.09302325581395349,Italian Grand Prix,dry,,20
+25-17,106.121,dry,,dry,103.444,dry,1,rainy,0.536,0.42790697674418604,Azerbaijan Grand Prix,dry,106.05877,1
+25-17,105.914,dry,,dry,104.253,dry,5,rainy,0.384,0.29767441860465116,Azerbaijan Grand Prix,dry,106.456562,2
+25-17,106.546,dry,,dry,105.0635,dry,2,rainy,0.0,0.14883720930232558,Azerbaijan Grand Prix,dry,106.461041,3
+25-17,106.495,dry,,dry,104.099,dry,4,rainy,0.024,0.3627906976744186,Azerbaijan Grand Prix,dry,106.568229,4
+25-17,106.5495,dry,,dry,104.003,dry,3,rainy,0.064,0.16744186046511628,Azerbaijan Grand Prix,dry,106.787541,5
+25-17,107.092,dry,106.177,dry,104.547,dry,6,rainy,0.016,0.5720930232558139,Azerbaijan Grand Prix,dry,106.922458,6
+25-17,105.2035,dry,,dry,104.619333,dry,7,rainy,0.688,0.7395348837209302,Azerbaijan Grand Prix,dry,106.974145,7
+25-17,,dry,102.949,dry,,dry,12,rainy,0.208,0.24186046511627907,Azerbaijan Grand Prix,dry,107.092625,8
+25-17,,dry,,dry,104.693,dry,10,rainy,0.312,0.21395348837209302,Azerbaijan Grand Prix,dry,107.075687,9
+25-17,105.904,dry,104.946,dry,104.891333,dry,8,rainy,0.128,0.2,Azerbaijan Grand Prix,dry,107.080291,10
+25-17,106.782666,dry,104.452,dry,106.242,dry,13,rainy,0.112,0.07441860465116279,Azerbaijan Grand Prix,dry,107.771229,11
+25-17,105.705,dry,104.003,dry,104.725,dry,15,rainy,0.064,0.08372093023255814,Azerbaijan Grand Prix,dry,107.8435,12
+25-17,105.4025,dry,106.0175,dry,103.939,dry,19,rainy,0.224,0.2186046511627907,Azerbaijan Grand Prix,dry,107.852062,13
+25-17,107.733,dry,104.873666,dry,105.191666,dry,20,rainy,0.008,0.08372093023255814,Azerbaijan Grand Prix,dry,108.077833,14
+25-17,107.295,dry,,dry,105.0145,dry,11,rainy,0.128,0.16744186046511628,Azerbaijan Grand Prix,dry,107.996375,15
+25-17,107.422,dry,106.759,dry,104.689,dry,17,rainy,0.12,0.037209302325581395,Azerbaijan Grand Prix,dry,108.143395,16
+25-17,107.206,dry,105.045,dry,105.215,dry,14,rainy,0.144,0.09302325581395349,Azerbaijan Grand Prix,dry,108.378,17
+25-17,108.279,dry,104.925,dry,106.131666,dry,18,rainy,0.072,0.0,Azerbaijan Grand Prix,dry,108.805659,18
+25-17,107.619,dry,104.996,dry,105.1262,dry,16,rainy,0.0,0.0,Azerbaijan Grand Prix,dry,108.800914,19
+25-17,104.852,dry,105.78,dry,105.006,dry,9,rainy,0.808,0.5674418604651162,Azerbaijan Grand Prix,dry,,20
+25-18,94.7825,rainy,,dry,91.707,dry,1,dry,0.52,0.44651162790697674,Singapore Grand Prix,rainy,97.134951,1
+25-18,93.535,rainy,93.83725,dry,,dry,2,dry,0.656,0.6325581395348837,Singapore Grand Prix,rainy,97.222532,2
+25-18,93.902666,rainy,92.956,dry,93.5205,dry,5,dry,0.536,0.4790697674418605,Singapore Grand Prix,rainy,97.23279,3
+25-18,93.9936,rainy,93.8462,dry,93.2885,dry,3,dry,0.664,0.4883720930232558,Singapore Grand Prix,rainy,97.266338,4
+25-18,95.05,rainy,,dry,91.761,dry,4,dry,0.12,0.5534883720930233,Singapore Grand Prix,rainy,97.678193,5
+25-18,93.4915,rainy,93.203,dry,93.5,dry,7,dry,0.328,0.24186046511627907,Singapore Grand Prix,rainy,97.876822,6
+25-18,93.143,rainy,93.4615,dry,,dry,10,dry,0.112,0.046511627906976744,Singapore Grand Prix,rainy,98.436032,7
+25-18,93.476,rainy,,dry,92.807,dry,6,dry,0.144,0.29767441860465116,Singapore Grand Prix,rainy,98.429322,8
+25-18,95.037,rainy,93.694,dry,93.382,dry,9,dry,0.064,0.04186046511627907,Singapore Grand Prix,rainy,98.643451,9
+25-18,93.833,rainy,94.490666,dry,93.836666,dry,20,dry,0.12,0.24186046511627907,Singapore Grand Prix,rainy,98.903622,10
+25-18,93.9105,rainy,93.473,dry,92.87975,dry,8,dry,0.136,0.1813953488372093,Singapore Grand Prix,rainy,99.011508,11
+25-18,94.277,rainy,94.917,dry,93.743,dry,13,dry,0.08,0.6232558139534884,Singapore Grand Prix,rainy,99.043213,12
+25-18,96.226,rainy,94.03275,dry,93.5555,dry,15,dry,0.096,0.027906976744186046,Singapore Grand Prix,rainy,99.128803,13
+25-18,,rainy,94.9775,dry,93.64825,dry,19,dry,0.192,0.2,Singapore Grand Prix,rainy,99.142409,14
+25-18,95.189,rainy,,dry,,dry,12,dry,0.144,0.11162790697674418,Singapore Grand Prix,rainy,99.172327,15
+25-18,95.6805,rainy,95.275,dry,93.72275,dry,16,dry,0.0,0.0,Singapore Grand Prix,rainy,99.430442,16
+25-18,95.772666,rainy,,dry,93.454333,dry,14,dry,0.112,0.037209302325581395,Singapore Grand Prix,rainy,99.49377,17
+25-18,94.573333,rainy,93.964333,dry,93.36975,dry,17,dry,0.008,0.009302325581395349,Singapore Grand Prix,rainy,99.5,18
+25-18,95.600666,rainy,95.2465,dry,93.67675,dry,18,dry,0.008,0.0,Singapore Grand Prix,rainy,99.505377,19
+25-18,95.53909,rainy,93.788,dry,93.4215,dry,11,dry,0.0,0.037209302325581395,Singapore Grand Prix,rainy,99.531262,20
+25-19,95.766,dry,,unknown,,unknown,1,dry,0.704,0.5906976744186047,United States Grand Prix,dry,100.71716,1
+25-19,96.346,dry,,unknown,,unknown,2,dry,0.512,0.4604651162790698,United States Grand Prix,dry,100.859285,2
+25-19,98.003,dry,,unknown,,unknown,3,dry,0.272,0.26046511627906976,United States Grand Prix,dry,100.991678,3
+25-19,96.7392,dry,,unknown,,unknown,5,dry,0.128,0.2930232558139535,United States Grand Prix,dry,101.226732,4
+25-19,96.829666,dry,,unknown,,unknown,6,dry,0.56,0.4372093023255814,United States Grand Prix,dry,101.247125,5
+25-19,97.1705,dry,,unknown,,unknown,4,dry,0.64,0.6604651162790698,United States Grand Prix,dry,101.314589,6
+25-19,96.514,dry,,unknown,,unknown,13,dry,0.08,0.6186046511627907,United States Grand Prix,dry,101.658482,7
+25-19,96.7065,dry,,unknown,,unknown,11,dry,0.0,0.018604651162790697,United States Grand Prix,dry,101.739464,8
+25-19,96.97475,dry,,unknown,,unknown,8,dry,0.08,0.018604651162790697,United States Grand Prix,dry,101.87291,9
+25-19,96.4125,dry,,unknown,,unknown,10,dry,0.16,0.05581395348837209,United States Grand Prix,dry,101.967178,10
+25-19,97.043,dry,,unknown,,unknown,12,dry,0.112,0.10697674418604651,United States Grand Prix,dry,102.024464,11
+25-19,97.1384,dry,,unknown,,unknown,18,dry,0.096,0.06046511627906977,United States Grand Prix,dry,102.052482,12
+25-19,98.1542,dry,,unknown,,unknown,7,dry,0.2,0.641860465116279,United States Grand Prix,dry,102.069767,13
+25-19,96.377,dry,,unknown,,unknown,19,dry,0.128,0.17674418604651163,United States Grand Prix,dry,102.145732,14
+25-19,97.172,dry,,unknown,,unknown,17,dry,0.008,0.027906976744186046,United States Grand Prix,dry,102.200071,15
+25-19,96.994666,dry,,unknown,,unknown,20,dry,0.136,0.10232558139534884,United States Grand Prix,dry,102.374428,16
+25-19,97.745,dry,,unknown,,unknown,15,dry,0.0,0.0,United States Grand Prix,dry,102.590327,17
+25-19,97.1662,dry,,unknown,,unknown,16,dry,0.096,0.018604651162790697,United States Grand Prix,dry,102.613054,18
+25-19,97.41275,dry,,unknown,,unknown,14,dry,0.0,0.0,United States Grand Prix,dry,102.66029,19
+25-19,97.486,dry,,unknown,,unknown,9,dry,0.128,0.14883720930232558,United States Grand Prix,dry,101.888,20
