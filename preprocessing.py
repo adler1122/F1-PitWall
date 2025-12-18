@@ -22,7 +22,7 @@ track_environment={
                          "Turkish Grand Prix","Sakhir Grand Prix","Dutch Grand Prix","Mexico City Grand Prix","Qatar Grand Prix"]       
                 }
 
-setup_semand={
+setup_demand={
               "high down force":
                 ["Spanish Grand Prix","Monaco Grand Prix","Hungarian Grand Prix","Singapore Grand Prix",
                  "Japanese Grand Prix","Mexican Grand Prix","Tuscan Grand Prix","Emilia Romagna Grand Prix",
@@ -83,7 +83,7 @@ df["track_environment"] = df["Grand Prix"].map(
     {gp: env for env, gps in track_environment.items() for gp in gps})
 
 df["setup_semand"] = df["Grand Prix"].map(
-    {gp: setup for setup, gps in setup_semand.items() for gp in gps})
+    {gp: setup for setup, gps in setup_demand.items() for gp in gps})
 
 df["track_length"] = df["Grand Prix"].map(track_length)
 
