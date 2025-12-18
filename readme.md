@@ -16,6 +16,9 @@ Methodology: Driver and team performance were aggregated over the last five race
 Results: Best ranker model achieved prediction accuracy of x out of 20 finishing positions. Best regression model achieved prediction accuracy of y out of 20 finishing positions via race pace sorting.
 
 >>>>>>> 2b5dae17a40228d5414f5b125a5a0d01f967fcc8
-Future Work: Extend feature engineering with tire degradation and pit stop strategies.
+F1 is a sport that heavily depends on strategy, luck, safety car deployment, and driver skills. You really can’t predict it with perfection — a driver with a bad car and poor results might suddenly shine after an upgrade, while another with strong pace can be undone by a bad strategy call, like McLaren in Qatar 2025.
+There is room for improvement in modeling and analytics: better features, smarter algorithms, more context about weather, track types, and team upgrades can all push accuracy higher. But there is no perfection — the chaos factor will always remain. The best we can do is get closer, reduce the blind spots, and accept that unpredictability is part of what makes F1 thrilling
+
+Future Work:Improving the models, Extend feature engineering with tire degradation and pit stop strategies.
 Incorporate weather variability beyond binary dry and rainy.
 Explore ensemble approaches combining ranker and regression predictions.
