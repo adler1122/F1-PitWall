@@ -74,17 +74,33 @@ track_length={"Australian Grand Prix":5.278
               ,"Qatar Grand Prix":5.419
               }
 
-for track in tracks:
-    if track not in track_length.keys():
-        print(track)
+#for track in tracks:
+    #if track not in track_length.keys():
+        #print(track)
 
 
-df["track_environment"] = df["Grand Prix"].map(
+df["track_environment"] = df["track_type"].map(
     {gp: env for env, gps in track_environment.items() for gp in gps})
 
-df["setup_semand"] = df["Grand Prix"].map(
+df["setup_semand"] = df["track_type"].map(
     {gp: setup for setup, gps in setup_demand.items() for gp in gps})
 
-df["track_length"] = df["Grand Prix"].map(track_length)
+df["track_length"] = df["track_type"].map(track_length)
 
 df = df.drop(columns=["track_type"])
+
+
+df["qualifying_position"] = df["qualifying"].astype("Int64")
+df["finishing_position"] = df["finishing_position"].astype("Int64")
+
+
+df["grid_size"] = df.groupby("race_id")["qualifying"].transform("count")
+
+
+df["relative_qualifying"] = df["qualifying"] / df["grid_size"]
+df["relative_fiish"] = df["finishing_position"] / df["grid_size"]
+
+
+df = df.drop(columns=["qualifying", "finishing_position"])
+
+#print(df.head().to_string()) 
